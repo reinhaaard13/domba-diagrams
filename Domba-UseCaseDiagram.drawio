@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T09:44:27.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="kwURRvbMx4Ka-yckeYJ0" version="20.8.16" type="github"><diagram name="Page-1" id="bLTI692i0d68UO6NP8W0">jZNNb4MwDIZ/DcdJQLq2O7as3Q6btI1JOwdwIVqCWWoK7a9fGAkfqirthPP4deK8Dh6LVPukeVW8YgbSC/2s9dijF4bBgi3MpyPnnqzW6x7kWmRWNIJYXMBC39JaZHCcCQlRkqjmMMWyhJRmjGuNzVx2QDk/teI5XIE45fKafomMip6u7/2RP4PIC3dy4NuM4k5swbHgGTYTxHYeizQi9ZFqI5Cdec6Xvm5/Izs0pqGk/xTAx/6nSbbw8C6TVIWfy0ue3dldTlzW9sIx8YMhMXxrIK4FJ9s+nZ0n5iZVF9ZKblJC7bHtCTQJ49oLT0C+4VGQwNJIEiRCNRFspMi7BGFlaEFKmkVgQqxJihKiYY6+gbY7UwvtzWsHg5nmFQIqIH02ElfArP/2AYYru27GcTpJMZnk0jJuH1A+7Dx6bAJrs1uO4/zLTX4KtvsF</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-26T09:47:06.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="RQCP4Bl51hJW0n9hwqg9" version="20.8.16" type="github">
+  <diagram name="Page-1" id="bLTI692i0d68UO6NP8W0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="piT_WqBOq5aaLzGfNvpe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="420" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="piT_WqBOq5aaLzGfNvpe-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eRFqwbBe9Qlbcm2T6zgd-1" target="piT_WqBOq5aaLzGfNvpe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRFqwbBe9Qlbcm2T6zgd-1" value="Staf Sekretariat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="piT_WqBOq5aaLzGfNvpe-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="piT_WqBOq5aaLzGfNvpe-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eRFqwbBe9Qlbcm2T6zgd-1" target="piT_WqBOq5aaLzGfNvpe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piT_WqBOq5aaLzGfNvpe-4" value="Menambahkan Data Jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="230" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
